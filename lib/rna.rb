@@ -1,7 +1,7 @@
 require 'json'
 require 'thor'
 require 'yaml'
-require 'aws-sdk'
+require 'aws-sdk-v1'
 require 'pp'
 require 'deep_merge'
 
