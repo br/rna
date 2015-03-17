@@ -18,7 +18,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "rake"
   gem.add_dependency "json"
   gem.add_dependency "thor"
-  gem.add_dependency "aws-sdk-v1"
+  gem.add_dependency "aws-sdk-v1", "=1.55.0"
   gem.add_dependency "guard-rna"
   gem.add_dependency "deep_merge"
 
